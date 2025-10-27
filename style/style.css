@@ -129,6 +129,12 @@ a {
 .contacts-item {
   font-weight: 700;
   font-size: 22px;
+  line-height: 24px;
+}
+
+.contacts-item span {
+  font-weight: 700;
+  font-size: 14px;
 }
 
 .contacts-link {
@@ -152,4 +158,5 @@ a {
 .skills-list {
   font-weight: 400;
   font-size: 14px;
+  padding: 0;
 }

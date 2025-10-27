@@ -19,6 +19,7 @@ a {
   background-color: white;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.8);
   padding: 105px 90px;
+  margin: 0 auto;
 }
 
 /* ФИЩГЕ */
@@ -58,18 +59,26 @@ a {
   font-weight: 700;
   font-size: 22px;
   color: #000000;
+  margin-bottom: 12px;
 }
 
 .work-subtitle {
   font-weight: 700;
   font-size: 16px;
   color: #000000;
+  margin-bottom: 12px;
 }
 
 .organization {
   color: coral;
 }
 
+.duration {
+  font-weight: 400;
+  font-size: 12px;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
 
 
 

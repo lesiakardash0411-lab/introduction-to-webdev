@@ -161,3 +161,7 @@ a {
   font-size: 14px;
   padding-left: 20px;
 }
+
+.skills-list li::marker {
+  color: coral;
+}

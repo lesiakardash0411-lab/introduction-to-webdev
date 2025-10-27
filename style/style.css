@@ -148,6 +148,7 @@ a {
 .skills {
   margin-top: 48px;
   margin-left: 40px;
+  line-height: 24px;
 }
 
 .skills-title {
@@ -158,5 +159,5 @@ a {
 .skills-list {
   font-weight: 400;
   font-size: 14px;
-  padding: 0;
+  padding-left: 20px;
 }

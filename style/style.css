@@ -95,14 +95,14 @@ a {
 }
 
 .education-subtitle {
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 16px;
   color: coral;
   margin-bottom: 12px;
 }
 
 .education-establishment {
-  font-weight: 700px; 
+  font-weight: 700; 
   font-size: 14px; 
   margin-bottom: 12px;
 }
@@ -111,6 +111,24 @@ a {
 .sidebar {
   color: white;
   background: #1e2939;
-  padding-top: 40px;
+  padding-top: 50px;
+  padding-left: 40px;
   width: 370px;
+}
+
+.contacts-title {
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.contacts-item {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+
+.contacts-link {
+  font-size: 14px;
+  color: gray;
 }

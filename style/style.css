@@ -111,9 +111,13 @@ a {
 .sidebar {
   color: white;
   background: #1e2939;
-  padding-top: 50px;
-  padding-left: 40px;
+  padding-top: 40px;
   width: 370px;
+}
+
+.contacts {
+  margin-top: 50px;
+  margin-left: 40px;
 }
 
 .contacts-title {
@@ -127,8 +131,25 @@ a {
   font-size: 22px;
 }
 
-
 .contacts-link {
+  font-weight: 400;
   font-size: 14px;
   color: gray;
+}
+
+
+
+.skills {
+  margin-top: 48px;
+  margin-left: 40px;
+}
+
+.skills-title {
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.skills-list {
+  font-weight: 400;
+  font-size: 14px;
 }

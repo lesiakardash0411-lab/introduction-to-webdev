@@ -105,6 +105,7 @@ a {
   font-weight: 700; 
   font-size: 14px; 
   margin-bottom: 12px;
+  color: #000000;
 }
 
 
@@ -149,7 +150,6 @@ a {
   margin-top: 48px;
   margin-left: 40px;
   line-height: 24px;
-  color: #000000;
 }
 
 .skills-title {
